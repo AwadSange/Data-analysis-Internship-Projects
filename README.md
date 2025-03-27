@@ -1,5 +1,6 @@
 # Data-analysis-Internship-Projects
 These are all my Data analysis internship projects from Ai Varient
+
 #HR Analytics Dashboard 
 - Designed an interactive dashboard to track attrition rates and workforce well-being.
 - Automated data integration, reducing manual reporting workload 
